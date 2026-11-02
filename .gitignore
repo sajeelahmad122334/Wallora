@@ -1,0 +1,10 @@
+.gradle/
+.gradle-phase1/
+build/
+**/build/
+.idea/
+local.properties
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
